@@ -1,4 +1,4 @@
-# CNN_Dight
+# CNN_Digit
 
 MNIST_Digit_1 Database works with CNN_a
 
